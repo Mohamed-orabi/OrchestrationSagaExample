@@ -1,0 +1,6 @@
+@OrchestrationSagaExample_HostAddress = http://localhost:5167
+
+GET {{OrchestrationSagaExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
